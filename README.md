@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Civics Fill in the Blank
 
 A simple Streamlit app template for you to modify!
 
